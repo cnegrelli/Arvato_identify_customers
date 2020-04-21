@@ -57,6 +57,7 @@ for the train data.
 
 
 4. Kaggle Competition
+
 We make predictions on the campaign data as part of a Kaggle Competition. I submitted my results and obteined an score of:
 0.77698 and the 91th position. The best score is 0.81063. There is room for improvement.
 
