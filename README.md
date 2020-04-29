@@ -63,7 +63,7 @@ We make predictions on the campaign data as part of a Kaggle Competition. I subm
 
 ## Blog Post
 
-All the steps and the conclusions are explained with more detail in my [Medium Blog](https://medium.com/@caro.negrelli/supervised-and-unsupervised-learning-to-identify-customers-568cfa0badea?sk=6e5957a7cd710c3970972c4f92ff5e9d) published in Towards Data Science.
+All the steps and the conclusions are explained with more detail in my [Medium blog post](https://medium.com/@caro.negrelli/supervised-and-unsupervised-learning-to-identify-customers-568cfa0badea?sk=6e5957a7cd710c3970972c4f92ff5e9d) published in Towards Data Science.
 
 
 
